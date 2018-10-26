@@ -51,12 +51,12 @@ The other table will have 4 columns: id, email, title and text.
 
 
 ## Timeline:
-25/10/2018: Create the wireframe for the website. Design it.
-26/10/2018: Backend. Set up routes and work environment.
-27/10/2018: Finish what is left from the backend. If there is time, start working on the frontend. 
-28/10/2018: Do the basic design for the pages.
-29/10/2018: Start working on the navbar and homepage.(Optional: Take the pictures needed for the website)
-30/10/2018: Work in the product page. Do at least 90% of it.(Optional: Take the pictures needed for the website)
-31/10/2018: Finish the product page and all the other pages. Try to use Invision without redirecting to its page.
-1/11/2018:  Last minutes fixes. Test for bugs.
-2/11/2018:  Deploy app in Heroku.
+* 25/10/2018: Create the wireframe for the website. Design it.
+* 26/10/2018: Backend. Set up routes and work environment.
+* 27/10/2018: Finish what is left from the backend. If there is time, start working on the frontend. 
+* 28/10/2018: Do the basic design for the pages.
+* 29/10/2018: Start working on the navbar and homepage.(Optional: Take the pictures needed for the website)
+* 30/10/2018: Work in the product page. Do at least 90% of it.(Optional: Take the pictures needed for the website)
+* 31/10/2018: Finish the product page and all the other pages. Try to use Invision without redirecting to its page.
+* 1/11/2018:  Last minutes fixes. Test for bugs.
+* 2/11/2018:  Deploy app in Heroku.
