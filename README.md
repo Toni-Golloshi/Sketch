@@ -1,7 +1,7 @@
-# Sketch
+# Switchr
 
 ## What is the problem you are trying to solve?
-I am creating a website that shows what my application is capable of. It is a marketing website.
+I am creating a website that showscases an iOS app that I want to build. By doing so i will demonstrate my ability to create elegant websites and my UX/UI design skills.
 
 ## Who is the target audience?
 * Everyone that is interested in a reminder app for iOS.
@@ -51,6 +51,12 @@ The other table will have 4 columns: id, email, title and text.
 
 
 ## Timeline:
-I am planning 3 days to work with the backend and 4 days for the frontend.
-2 extra days to test everything and debug If needed. On the
-last day the app should be on Heroku and ready to be deployed.
+25/10/2018: Create the wireframe for the website. Design it.
+26/10/2018: Backend. Set up routes and work environment.
+27/10/2018: Finish what is left from the backend. If there is time, start working on the frontend. 
+28/10/2018: Do the basic design for the pages.
+29/10/2018: Start working on the navbar and homepage.(Optional: Take the pictures needed for the website)
+30/10/2018: Work in the product page. Do at least 90% of it.(Optional: Take the pictures needed for the website)
+31/10/2018: Finish the product page and all the other pages. Try to use Invision without redirecting to its page.
+1/11/2018:  Last minutes fixes. Test for bugs.
+2/11/2018:  Deploy app in Heroku.
